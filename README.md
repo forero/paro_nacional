@@ -1,2 +1,4 @@
 # paro_nacional
-Algunos datos del paro
+
+A parar para avanzar, viva el paro nacional.
+
